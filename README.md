@@ -1,6 +1,7 @@
 # junit4-cucumber-spring-allure-example
 Скелет проекта автоматизированных тестов на Cucumber, с поддержкой Allure-reporting и многопоточности.
-В качестве DI выступает Spring
+В качестве DI выступает Spring.
+Запуск тестов и выгрузка результатов — из [Allure TestOps](https://docs.qameta.io/allure-testops/)
 
 ## Требования к ПО разработчика
 * [OpenJDK11 Hotspot](https://adoptium.net/?variant=openjdk11&jvmVariant=hotspot)
